@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yadhu/Hashedpasswordcracker.git
+git clone https://github.com/nryadhukrishnan/Hashedpasswordcracker.git
 cd Hashedpasswordcracker
 Install the required dependencies:
 
